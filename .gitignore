@@ -1,0 +1,10 @@
+*.class
+*.log
+target/
+build/
+out/
+.gradle/
+.idea/
+*.iml
+.DS_Store
+!gradle/wrapper/gradle-wrapper.jar
